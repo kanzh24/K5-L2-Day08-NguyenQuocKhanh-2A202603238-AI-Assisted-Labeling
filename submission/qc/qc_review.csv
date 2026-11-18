@@ -1,0 +1,8 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Nguyễn Quốc Khánh,"Nhãn chuẩn, ba gác và người ngồi tách đúng"
+img_006.jpg,,khong,Nguyễn Quốc Khánh,"Hàng quán và xe máy rõ, cụm xe xa dùng ignore_region"
+img_013.jpg,,khong,Nguyễn Quốc Khánh,"Tuk-tuk three_wheeler và người lái tách riêng, đã sửa box người áo hồng"
+img_014.jpg,,khong,Nguyễn Quốc Khánh,Người gánh hàng và xe máy tiền cảnh gán chuẩn
+img_026.jpg,,khong,Nguyễn Quốc Khánh,"Bãi xe đêm, cụm dày gán ignore_region đúng quy tắc"
+img_033.jpg,,khong,Nguyễn Quốc Khánh,"Xe và người rõ, có 2 xe máy ở xa xấp xỉ 19px"
+img_034.jpg,,khong,Nguyễn Quốc Khánh,Người đi xe máy và xe tải oncoming gán chính xác
