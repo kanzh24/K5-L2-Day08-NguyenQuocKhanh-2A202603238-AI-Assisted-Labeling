@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: kanzh24
 - Repo bài nộp (URL): https://github.com/kanzh24/K5-L2-Day08-NguyenQuocKhanh-2A202603238-AI-Assisted-Labeling
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): 6f609e1
 - Máy: Windows 11, GPU NVIDIA GeForce GTX 1650 (CUDA)
 - CVAT (Docker): v2.81.0
 
